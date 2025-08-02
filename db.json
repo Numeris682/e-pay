@@ -1,0 +1,10 @@
+
+{
+  "users": [
+    { "id": 1, "name": "Elmondes", "email": "elmondes@exemple.com", "password": "123456", "balance": 1250 }
+  ],
+  "transactions": [
+    { "id": 1, "type": "Envoi", "amount": -50, "currency": "USD", "status": "✅ Réussi" },
+    { "id": 2, "type": "Réception", "amount": 200, "currency": "USD", "status": "✅ Réussi" }
+  ]
+}
